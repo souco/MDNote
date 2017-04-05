@@ -1,4 +1,5 @@
-#### Ê¹ÓÃ Intellij Idea ´î½¨ web Ó¦ÓÃ
+#### ä½¿ç”¨ Intellij Idea æ­å»º web åº”ç”¨
 
-ÆÚ¼ä£¬±¨´í`NoClassDefFoundError: javax/servlet/jsp/jstl/core/Config`£¬Ó¦¸ÃÊÇÓÉÈ±ÉÙ`standard.jar`ºÍ`jstl.jar`µÄ jar °üÒıÆğµÄ¡£
-ÔÚ`http://archive.apache.org/dist/jakarta/taglibs/standard/binaries/`ÏÂÔØjar°ü£¬·ÅÈëlibÄ¿Â¼ÏÂ£¬´ËÊ±±¨´í¡£ `el-api-2.2.jar`ºÍ tomcat Ìá¹©µÄ°ü³åÍ»ÁË,É¾µô`el-api-2.2.jar`£¬ÖØÆôtomcat£¬Õı³£¡£
+æœŸé—´ï¼ŒæŠ¥é”™`NoClassDefFoundError: javax/servlet/jsp/jstl/core/Config`ï¼Œåº”è¯¥æ˜¯ç”±ç¼ºå°‘`standard.jar`å’Œ`jstl.jar`çš„ jar åŒ…å¼•èµ·çš„ã€‚
+
+åœ¨`http://archive.apache.org/dist/jakarta/taglibs/standard/binaries/`ä¸‹è½½jaråŒ…ï¼Œæ”¾å…¥libç›®å½•ä¸‹ï¼Œæ­¤æ—¶æŠ¥é”™ã€‚ `el-api-2.2.jar`å’Œ tomcat æä¾›çš„åŒ…å†²çªäº†,åˆ æ‰`el-api-2.2.jar`ï¼Œé‡å¯tomcatï¼Œæ­£å¸¸ã€‚
